@@ -4,6 +4,11 @@
       "url": "https://raw.githubusercontent.com/FiorelaCiroku/XDTestingDemo/main/.xd-testing/RacingCars/RacingCars.owl",
       "name": "RacingCars",
       "userDefined": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/DeannaTD/XDTestingDemo/main/.xd-testing/MusicalPerformance/musical-performance.owl",
+      "name": "MusicalPerformance",
+      "userDefined": true
     }
   ],
   "fragments": [
